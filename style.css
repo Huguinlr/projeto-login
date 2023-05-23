@@ -14,7 +14,7 @@ Lilás: #5f2c82
 }
 
 body, html {
-    background-color:#5f2c82 ;
+    background-color:#2f7b88 ;
     height: 100vh;
     width: 100vw;
 }
@@ -44,7 +44,7 @@ section#login > div#imagem {
     background: #5f2c82 url(imagens/login.jpg) no-repeat;
     background-size: cover;
     height: 200px;
-    background-position: center center;
+    background-position: center center ;
 }   
 
 section#login > div#formulario {
